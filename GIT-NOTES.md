@@ -28,3 +28,6 @@ lista todas as branchs do repositório atual
 "git checkout 'nome da branch'
 muda o repositório para a branch em questão
 
+"git merge 'nome da branch'"
+a branch atual recebe o conteudo alterado da branch informada no comando
+
