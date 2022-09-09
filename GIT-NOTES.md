@@ -34,8 +34,7 @@ a branch atual recebe o conteudo alterado da branch informada no comando
 "git remote 'nome do repositório' 'link do repositório'"
 cria uma ligação entre o repositório local e o remoto
 
-"git push -u 'nome do repositório remoto' 'nome da branch'"
+"git push 'nome do repositório remoto' 'nome da branch'"
 sobe todo o código do repositório local para o remoto
 
-a
 
