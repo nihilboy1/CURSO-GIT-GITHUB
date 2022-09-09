@@ -37,3 +37,5 @@ cria uma ligação entre o repositório local e o remoto
 "git push -u 'nome do repositório remoto' 'nome da branch'"
 sobe todo o código do repositório local para o remoto
 
+a
+
