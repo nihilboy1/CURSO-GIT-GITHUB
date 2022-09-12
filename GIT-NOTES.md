@@ -31,16 +31,16 @@ move o repositório para a branch informada
 "git merge 'nome da branch'"
 a branch atual recebe o conteudo alterado da branch informada no comando
 
-"git remote 'nome do repositório' 'link do repositório'"
+"git remote add origin 'link do repositório'"
 cria uma ligação entre o repositório local e o remoto
 
-"git push 'nome do repositório remoto' 'nome da branch'"
+"git push origin 'nome da branch'"
 sobe todo o código do repositório local para o remoto
 
 "git pull"
 baixa todo o código do repositório remoto para o local
 
-"git pull 'nome do repositório remoto' 'nome da branch'"
+"git pull origin 'nome da branch'"
 baixa todo o código da branch especifica do repositório remoto para o local
 
 
